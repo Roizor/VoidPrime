@@ -1,1 +1,16 @@
-oh
+[
+{
+  "modid": "voidprime",
+  "name": "Void Prime",
+  "description": "A simple forge mod for void dupe servers.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/roizor/voidprime",
+  "updateUrl": "https://github.com/roizor/voidprime",
+  "authorList": ["Roizor"],
+  "credits": "Roizor",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
