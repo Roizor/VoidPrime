@@ -1,4 +1,4 @@
 package voidprime;
 
-public void VoidPrime() {
+public class VoidPrime() {
 }
